@@ -11,22 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* *2022.08 - 2026.05 (expected)*, University of Tennessee, Knoxville, Ph.D. in Business Analytics.
+* *2021.08 - 2022.05*, University of Rochester, Master of Arts in Economics. 
+* *2016.09 - 2021.06*, University of Science and Technology of China, Bachelor of Economics in Finance. 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.08 - Now: Graduate Research Assistant
+  * Haslam College of Business, University of Tennessee, Knoxville
+  * Supervisor: Professor Tingliang Huang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.08 - Now: Graduate Teaching Assistant
+  * Haslam College of Business, University of Tennessee, Knoxville
+  * 
   
+
+
+<!-- Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+  
+<!-- Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+Academic Services
+======
+* Ad hoc Reviewers: [POMS](https://www.poms.org/journal).
+
+
 Skills
 ======
 * Skill 1
@@ -35,25 +58,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
