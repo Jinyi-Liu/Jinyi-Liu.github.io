@@ -23,7 +23,8 @@ Work experience
 
 * 2022.08 - Now: Graduate Teaching Assistant
   * Haslam College of Business, University of Tennessee, Knoxville
-  * 
+    * BZAN 531 Decision Optimization, Fall 2022
+    * BZAN 552 Multivariate and Data Mining Techniques, Spring 2023
   
 
 
