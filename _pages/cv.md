@@ -53,9 +53,12 @@ Academic Services
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Softward
+  * Python (PyTorch, TensorFlow, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, etc.)
+  * R
+  * SQL
+  * C#
+  * LaTeX
+* Languages
+  * Chinese (Native)
+  * English (Fluent)
