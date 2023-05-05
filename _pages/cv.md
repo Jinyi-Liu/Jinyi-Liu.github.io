@@ -53,12 +53,5 @@ Academic Services
 
 Skills
 ======
-* Softward
-  * Python (PyTorch, TensorFlow, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, etc.)
-  * R
-  * SQL
-  * C#
-  * LaTeX
-* Languages
-  * Chinese (Native)
-  * English (Fluent)
+* Software: Python (PyTorch, TensorFlow, Pandas, Scikit-learn, etc.), R, SQL, C#, LaTeX
+* Languages: Chinese (Native), English (Fluent)
