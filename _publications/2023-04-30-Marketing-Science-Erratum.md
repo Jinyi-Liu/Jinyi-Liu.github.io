@@ -2,7 +2,6 @@
 title: 'Erratum on "Competing for Recommendations" Model by Zhou and Zou (2023)'
 collection: publications
 accepted: true
-published: false
 permalink: /publication/2023-04-30-Marketing-Science-Erratum
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-04-30
