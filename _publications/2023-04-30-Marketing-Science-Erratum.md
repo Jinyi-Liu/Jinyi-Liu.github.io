@@ -1,5 +1,5 @@
 ---
-title: 'Erratum on "Competing for Recommendations" Model by Zhou and Zou (2023)'
+title: 'Liu, J. and Huang, T. 2023. Erratum on "Competing for Recommendations" Model by Zhou and Zou (2023).'
 collection: publications
 accepted: true
 permalink: /publication/2023-04-30-Marketing-Science-Erratum
