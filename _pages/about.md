@@ -15,7 +15,3 @@ Before I came to Knoxville, I earned my Bachelor of Economics in Finance from th
 
 Currently, I am interested in the interface between operation management and marketing.
 
-
-
-
-#  
