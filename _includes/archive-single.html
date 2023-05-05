@@ -39,8 +39,14 @@
     {% endif %}
 
 
-          {% if post.accepted %}
+          {% if post.published %}
            <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% endif %}
+          {% if post.accepted %}
+           <p>Accepted by <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% endif %}
+          {% if post.submitted %}
+           <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}
 
 
