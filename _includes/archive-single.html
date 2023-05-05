@@ -41,8 +41,12 @@
         
         {% if post.accepted and post.published %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        <!-- {% elsif post.accepted %}
-          <p>Accepted by <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
+        {% endif %}
+        {% if post.accepted and post.published == false %}
+          <p>Accepted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% endif %}
+        {% if post.accepted == false and post.published == false %}
+          <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% endif %}
         <!-- {% if post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
