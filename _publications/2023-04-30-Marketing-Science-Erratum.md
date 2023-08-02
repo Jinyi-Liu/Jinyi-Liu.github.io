@@ -9,4 +9,4 @@ venue: 'Marketing Science'
 paperurl: 'https://pubsonline.informs.org/doi/abs/10.1287/mksc.2022.0410'
 citation: #'Liu, J. and Huang, T. 2023. Erratum on "Competing for Recommendations" Model by Zhou and Zou (2023). Marketing Science.'
 ---
-Published online on [https://pubsonline.informs.org/doi/abs/10.1287/mksc.2022.0410][Ahead of Print]. 
+Published online on (Ahead of Print)[https://pubsonline.informs.org/doi/abs/10.1287/mksc.2022.0410]. 
