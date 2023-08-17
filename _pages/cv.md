@@ -48,7 +48,7 @@ Publications
   
 Academic Services
 ======
-* Ad hoc Reviewers: [POMS](https://www.poms.org/journal).
+* Ad hoc Reviewers: [POMS](https://www.poms.org/journal), [NRL](https://onlinelibrary.wiley.com/journal/15206750).
 
 
 Skills
