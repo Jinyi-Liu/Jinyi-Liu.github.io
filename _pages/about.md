@@ -11,7 +11,6 @@ redirect_from:
 
 I am a second-year Ph.D. student in Business Analytics at the Haslam College of Business, University of Tennessee, Knoxville, under the supervision of Prof. <a href='https://sites.google.com/view/tinglianghuang'><strong>Tingliang Huang</strong></a>. 
 
-Before I came to Knoxville, I earned my Bachelor of Economics in Finance from the University of Science and Technology of China, during which I took a lot of mathematics and statistics courses. After that, I received a Master of Arts in Economics from the University of Rochester in May 2022. 
 
-Currently, I am interested in the interface between operation management and marketing. Please feel free to connect me on LinkedIn or send me an email if you have any questions or want to know more about me.
+Currently, I am interested in the interface between operation management and marketing. Besides, I am also interested in the application of machine learning in business analytics.
 
